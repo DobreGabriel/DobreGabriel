@@ -17,12 +17,13 @@ I'm a SOC Analyst student throught ITS ICT Piemonte, with a huge passion for cyb
 ## My Website Portfolio
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://dobregabriel.github.io/">
+ <a href="https://dobregabriel.github.io/" target="blank">
+<img hight="400" width="900" alt="GIF" align="center" src="https://github.com/DobreGabriel/DobreGabriel/blob/main/Screenshot%20from%202026-05-15%2021-08-38.png?raw=true">
 </div>
 
 ---
 
-## My Toolkit
+## My Toolkit 🛠
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,python,c,elasticsearch,kali,linux,mysql,powershell,vscode,)](https://skillicons.dev)
 
@@ -51,15 +52,4 @@ I'm a SOC Analyst student throught ITS ICT Piemonte, with a huge passion for cyb
 </div>
 
 
-# Contact Me :
 
-<p>
- </br>
-
-
-<a href="linkedin.com/in/dobre-gabriel" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="hhttps://www.instagram.com/gabriel._.dobre/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
